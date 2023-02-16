@@ -1,0 +1,8 @@
+drwxr-xr-x   2 sppp     psacln       4096 Sep 21 01:47 .
+drwxr-x---   7 sppp     psaserv      4096 Nov 19 12:29 ..
+-rw-r--r--   1 sppp     psacln       1852 Sep 21 01:47 bottom-link.php
+-rw-r--r--   1 sppp     psacln       2633 Sep 21 01:44 footer.php
+-rw-r--r--   1 sppp     psacln       1112 Sep 17 05:11 header.php
+-rw-r--r--   1 sppp     psacln        785 Oct  5 15:54 main-header.php
+-rw-r--r--   1 sppp     psacln       2564 Sep 20 01:42 nav.php
+-rw-r--r--   1 sppp     psacln        752 Sep 21 00:32 top-info.php
